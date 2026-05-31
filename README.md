@@ -15,7 +15,7 @@ Here is my creation. Credits to yuphin for the renderer and i have edited it.
 
 ### Tech Stack & Tools
 
-| Category | Technologies |
+| Category | Skills and Tools |
 | :--- | :--- |
 | **Languages** | C++ Java |
 | **Tools/Other** | Git, GitHub, VS Code, VS Community |
