@@ -9,7 +9,7 @@ Currently learning [Physically based rendering and a bit on 3D graphics]
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
