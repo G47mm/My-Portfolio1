@@ -1,76 +1,29 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Hi there, I'm Nashat Samit Arham.
 
-<br/>
+### About Me
+I am a passionate on 3D graphics low level programming, mathmatics, physics, 3D physics programming focused on building clean, user-friendly applications and exploring modern technologies and algorithms.
 
-<center>
+In Mantova, Italy.
+Open to freelance.
+Currently learning [Physically based rendering and a bit on 3D graphics]
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+---
 
-</center>
+### 🛠️ Tech Stack & Tools
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++ Java |
+| **Tools/Other** | Git, GitHub, VS Code, VS Community |
 
-## TL;DR
+---
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+### GitHub Stats
+<!-- Optional: Dynamically generated stats using GitHub Readme Stats -->
+![Your GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
 
-## Built With
+---
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
-
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+### Connect With Me
+| [📧 Email](nashat.arham@gmail.com)
