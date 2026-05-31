@@ -19,14 +19,6 @@ And here is my creation. Credits to yuphin for the renderer and i have edited it
 | :--- | :--- |
 | **Languages** | C++ Java |
 | **Tools/Other** | Git, GitHub, VS Code, VS Community |
-
----
-
-### GitHub Stats
-<!-- Optional: Dynamically generated stats using GitHub Readme Stats -->
-![Your GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
 ---
 
 ### Connect With Me
