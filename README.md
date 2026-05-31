@@ -5,7 +5,7 @@ I am a passionate on 3D graphics low level programming, mathmatics, physics, 3D 
 
 In Mantova, Italy.
 Open to freelance.
-Currently learning [Physically based rendering and on Vulkan 3D graphics]
+Currently learning Physically based rendering and on Vulkan 3D graphics
 
 And here is my creation. Credits to yuphin for the renderer and i have edited it.
 
