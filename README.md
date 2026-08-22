@@ -3,7 +3,6 @@
 ### About Me
 I am a passionate on 3D graphics low level programming, mathematics, physics, 3D physics programming focused on building clean, user-friendly applications and exploring modern technologies and algorithms.
 
-In Mantova, Italy.
 Open to freelance.
 Currently learning on Physically based rendering and on Vulkan 3D graphics.
 
